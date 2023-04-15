@@ -1,4 +1,4 @@
-![logo](https://github.com/Dharejo-Junaid/Dharejo-Junaid-Readme/blob/main/Image.jpg)
+![logo](https://github.com/Dharejo-Junaid/Dharejo-Junaid/blob/main/Image.jpg)
 
 <h1 align="center">Hi 👋, I'm Junaid Ali</h1>
 <h3 align="center">Software Engineering student</h3>
