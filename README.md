@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Mongo, MySQL, Javascript, React and Express**
 
-- 📫 How to reach me **junaidali.100190@gmail.com**
+- 📫 How to reach me **dharejojunaidali@gmail.com**
 
 - ⚡ Fun fact **Boring 😁**
 
